@@ -1,2 +1,2 @@
-[master 94dcb33] merge fix
- 1 file changed, 1 insertion(+), 1 deletion(-)
+#!/bin/bash
+echo "The school is open"
